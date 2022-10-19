@@ -8,4 +8,6 @@ ola, meu nome é Henrique e tenho 17 anos.
 
 😶 conheco razoavelmente phyton e C
 
-🍔 adoro comer
+⚽ gosto de futebol
+
+🎮 ainda vou zerar todos os zeldas 3D
