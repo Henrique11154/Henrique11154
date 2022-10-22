@@ -2,12 +2,12 @@ Olá, meu nome é Henrique e tenho 17 anos.
 
 #sobre mim
 
-💻 estou aprendendo java
+💻 Estou aprendendo java
 
-😀 segundo ano de informatica
+😀 Segundo ano de informática
 
-😶 conheco razoavelmente phyton e C
+😶 Conheço razoavelmente phyton e C
 
-⚽ gosto de futebol
+⚽ Gosto de futebol
 
-🎮 ainda vou zerar todos os zeldas 3D
+🎮 Ainda vou zerar todos os zeldas 3D
