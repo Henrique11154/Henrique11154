@@ -2,11 +2,11 @@ Olá, meu nome é Henrique e tenho 17 anos.
 
 #sobre mim
 
-💻 Estou aprendendo java
+💻 Estou aprendendo HTML,css e javascript
 
-😀 Segundo ano de informática
+😀 Terceiro ano de informática
 
-😶 Conheço razoavelmente phyton e C
+📝 Conheço razoavelmente phyton, C e java
 
 ⚽ Gosto de futebol
 
